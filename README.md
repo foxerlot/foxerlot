@@ -15,16 +15,12 @@ Developer focused on low-level understanding, minimal tooling, and building a wo
 ## Languages
 
 - **Primary:** C  
-- **Interested in:** Java, Kotlin  
+- **Interested in:** Kotlin, Lua
 
 ## Technical Interests
 
-- Functional programming  
 - Systems programming  
-- Graphics and visualization  
-  - HTML Canvas  
-  - D3.js  
-  - Data visualization (general)
+- Graphics and data visualization
 
 ## Current Focus
 
@@ -40,5 +36,3 @@ Developer focused on low-level understanding, minimal tooling, and building a wo
 - Privacy and digital autonomy  
 
 ---
-
-Learning fundamentals first. Optimizing later.
