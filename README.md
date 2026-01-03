@@ -1,6 +1,5 @@
 ![Header](./github-header-banner.png)
-## Hi there
-
+---
 ## About
 
 Developer focused on low-level understanding, minimal tooling, and building a workflow that prioritizes control and efficiency. Currently spending most time learning fundamentals and refining daily development habits.
