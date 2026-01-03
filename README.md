@@ -2,10 +2,9 @@
 ## Hi there
 
 
-Currently, im learning the C programming language
-I also play the guitar
+Currently, my main focus is learning the C programming language
 
-Goals:
-|-create my own window server in c
-|-contribute to open source
-|-ultimately get a job as a systems programmer
+Goals:  
+-create my own window server in C  
+-contribute to open source  
+-ultimately get a job as a systems programmer
