@@ -7,9 +7,9 @@ Developer focused on low-level understanding, minimal tooling, and building a wo
 ## Environment
 
 - **OS:** Arch Linux  
-- **Editor:** Vim  
+- **Editor:** Neovim
 - **Window Manager:** i3wm  
-- **Terminal:** kitty  
+- **Terminal:** St
 
 ## Languages
 
