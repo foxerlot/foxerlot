@@ -6,32 +6,14 @@ Developer focused on low-level understanding, minimal tooling, and building a wo
 
 ## Environment
 
-- **OS:** Arch Linux  
-- **Editor:** Neovim
-- **Window Manager:** i3wm  
+- **OS:** Void Linux
+- **Editor:** ex -v
+- **Window Manager:** dwm
 - **Terminal:** St
 
 ## Languages
 
 - **Primary:** C  
 - **Interested in:** Kotlin, Lua
-
-## Technical Interests
-
-- Systems programming  
-- Graphics and data visualization
-
-## Current Focus
-
-- Deepening understanding of the C programming language  
-- Optimizing productivity and ergonomics in Vim  
-- Getting fully comfortable with a custom, keyboard-driven workflow  
-
-## Non-Coding Interests
-
-- Guitar (metal)  
-- Reading  
-- Anthropology  
-- Privacy and digital autonomy  
 
 ---
