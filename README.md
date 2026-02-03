@@ -7,7 +7,7 @@ Developer focused on low-level understanding, minimal tooling, and building a wo
 ## Environment
 
 - **OS:** Void Linux
-- **Editor:** ex -v
+- **Editor:** ed
 - **Window Manager:** dwm
 - **Terminal:** St
 
@@ -17,3 +17,4 @@ Developer focused on low-level understanding, minimal tooling, and building a wo
 - **Interested in:** Kotlin, Lua
 
 ---
+?
