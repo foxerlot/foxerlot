@@ -10,4 +10,4 @@ I'm working on projects but right now my github is pretty empty :/
 - [**ape**](https://github.com/foxerlot/fears) \- An (amazingly preformant editor) terminal based text editor.
 
 ### Contact me
-If you would like to contact me, my discord is: `.venomcloud1`
+![Discord username](https://img.shields.io/badge/Discord-.venomcloud1-blue?logo=discord)
