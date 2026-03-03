@@ -1,3 +1,4 @@
+![banner](github-header-banner.png)
 ### Recreational programmer based in California
 I like to program in C mostly but im interested in other languages like go \
 I use linux, arch mostly but i distro-hop sometimes \
