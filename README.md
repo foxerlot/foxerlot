@@ -1,14 +1,14 @@
 ![banner](github-header-banner.png)
 ### Recreational programmer based in California
-I like to program in C mostly but im interested in other languages like go \
-I use linux and I'm a command-line guru \
-I'm working on projects but right now my github is pretty empty :/
+I like to program in C mostly but im interested in other languages like go  
+I use linux and I'm a command-line guru  
+All my projects have the same file structure so it should be pretty easy to navigate them.  
 
 ### My main tools:
 ![my skills](https://skillicons.dev/icons?i=c,linux,vim)
 
 ### Projects I'm working on now:
-- [**ape**](https://github.com/foxerlot/fears) \- An (amazingly preformant editor) terminal based text editor.
+- [**ape**](https://github.com/foxerlot/fears) \- Amazingly preformant editor, designed for speed and efficiency :zap:
 
 ### Contact me
 ![Discord username](https://img.shields.io/badge/Discord-.venomcloud1-blue?logo=discord)
