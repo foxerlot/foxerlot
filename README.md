@@ -8,7 +8,8 @@ All my projects have the same file structure so it should be pretty easy to navi
 ![my skills](https://skillicons.dev/icons?i=c,linux,vim)
 
 ### Projects I'm working on now:
-- [**ape**](https://github.com/foxerlot/fears) \- Amazingly preformant editor, designed for speed and efficiency :zap:
+- [**ape**](https://github.com/foxerlot/fears) \- Amazingly preformant editor, designed for speed and efficiency :zap:  
+- [**lisp**](https://github.com/foxerlot/fears) \- A simple, single file, lisp interpreter written in C  
 
 ### Contact me
 ![Discord username](https://img.shields.io/badge/Discord-.venomcloud1-blue?logo=discord)
