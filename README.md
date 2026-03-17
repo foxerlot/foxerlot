@@ -10,7 +10,7 @@ All my projects have the same file structure so it should be pretty easy to navi
 ### Projects I'm working on now:
 - [**ape**](https://github.com/foxerlot/ape) \- Amazingly preformant editor, designed for speed and efficiency :zap:  
 - [**lisp**](https://github.com/foxerlot/lisp) \- A single file lisp interpreter written in C
-- [**filer**](https://github.com/foxerlot/filer) \- Simple file browser written, in C... Still very much a work in progress  
+- [**filer**](https://github.com/foxerlot/filer) \- Simple file browser written in C. Still very much a work in progress  
 
 ### Contact me
 ![Discord username](https://img.shields.io/badge/Discord-.venomcloud1-blue?logo=discord)
