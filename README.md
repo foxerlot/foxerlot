@@ -12,6 +12,10 @@ All my projects have the same file structure so it should be pretty easy to navi
 - [**lisp**](https://github.com/foxerlot/lisp) \- A single file lisp interpreter written in C
 - [**filer**](https://github.com/foxerlot/filer) \- Simple file browser written in C. Still very much a work in progress  
 
+### Vim plugins I've created
+- [**scratch-shell.vim**](https://github.com/foxerlot/scratch-shell.vim) \- Vim plugin that puts the output of a shell command into a scratch buffer.  
+- [**bufpick.vim**](https://github.com/foxerlot/bufpick.vim) \- Opens a window with a list of open buffers.  
+
 ### Contact me
 ![Discord username](https://img.shields.io/badge/Discord-.venomcloud1-blue?logo=discord)
 
