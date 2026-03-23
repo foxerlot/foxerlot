@@ -2,7 +2,10 @@
 ### Recreational programmer based in California
 I like to program in C mostly but im interested in other languages like go  
 I use linux and I'm a command-line guru  
-All my projects have the same file structure so it should be pretty easy to navigate them.  
+Modern web-design is my enemy  
+I make vim plugins as I need them  
+All my projects have the same file structure so it should be pretty easy to navigate them  
+I'm actively trying to switch to kernel-style formatting so some of my projects might have irregular formatting  
 
 ### My main tools:
 ![my skills](https://skillicons.dev/icons?i=linux,vim,bash,c) ![my skill 2](https://simpleskill.icons.workers.dev/svg?i=commonlisp&theme=light)
