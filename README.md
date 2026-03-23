@@ -5,7 +5,7 @@ I use linux and I'm a command-line guru
 All my projects have the same file structure so it should be pretty easy to navigate them.  
 
 ### My main tools:
-![my skills](https://skillicons.dev/icons?i=linux,vim,c) ![my skill 2](https://simpleskill.icons.workers.dev/svg?i=commonlisp&theme=light)
+![my skills](https://skillicons.dev/icons?i=linux,vim,bash,c) ![my skill 2](https://simpleskill.icons.workers.dev/svg?i=commonlisp&theme=light)
 
 ### Projects I'm working on now:
 - [**ape**](https://github.com/foxerlot/ape) \- Amazingly preformant editor, designed for speed and efficiency :zap:  
